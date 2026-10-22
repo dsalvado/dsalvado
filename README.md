@@ -9,6 +9,6 @@ client for Linux, macOS and Windows, inspired by WinSCP and built with Claude Co
 
 **Day to day:** Oracle and SQL Server, OCI and Azure, Linux, Python, and lately Rust.
 
-**Elsewhere:** [dsalvado.ca](https://dsalvado.ca) · [dev.to](https://dev.to/dsalvado)
+**Elsewhere:** [dsalvado.ca](https://dsalvado.ca) · [LinkedIn](https://www.linkedin.com/in/david-salvador-54157a2) · [dev.to](https://dev.to/dsalvado)
 
 *Still building. Still learning.*
